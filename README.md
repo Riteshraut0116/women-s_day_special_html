@@ -22,6 +22,33 @@ I built this interactive website to surprise my girlfriend on **Women’s Day**!
 
 ---
 
+## 📂 Directory Structure
+
+women's_day_files/
+│
+├── css/                          # 🎨 Styling files
+│   ├── index.css                 # Styles for the main landing page
+│   └── style.css                 # Additional or global styles
+│
+├── img/                          # 🖼️ Image assets
+│   ├── background.jpg            # Background image used in the design
+│   └── screenshot.png            # Screenshot preview of the website
+│
+└── js/                           # ⚙️ JavaScript functionality
+    ├── MeshSurfaceSampler.js     # Utility for sampling points on 3D meshes
+    ├── OBJLoader.js              # Loads 3D models in OBJ format
+    ├── TrackballControls.js      # Enables interactive 3D rotation
+    ├── gsap.min.js               # GSAP animation library
+    ├── script.js                 # Main script controlling the experience
+    ├── simplex-noise.js          # Generates smooth noise for animations
+    └── three.min.js              # Core Three.js 3D rendering library
+
+index.html                        # 🏠 Entry point of the website
+love.html                         # 💖 Hidden surprise page with 3D heart
+README.md                         # 📘 Project documentation
+
+---
+
 ## 🛠️ Features  
 - **3D Rotating Heart**: Draggable & interactive using Three.js.  
 - **Custom Cursor Animation**: Smooth "clicklove.js" effect.  
