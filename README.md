@@ -5,13 +5,13 @@
 
 ## 📸 Website Homepage
 
-![Website Homepage](ganapati-bappa-main/screenshot.png)
+![Website Homepage](women's_day_files/img/screenshot.png)
 
 ---
 
 ## 🌐 Live Demo
 
-[- 🔗 Click here to view the live site on Netlify](https://ganpatibappasite.netlify.app/)
+[- 🔗 Click here to view the live site on Netlify](https://womensdayspecial.netlify.app/)
 
 [- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/ganpati_bappa_html/)
 
