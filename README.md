@@ -13,7 +13,7 @@
 
 [- 🔗 Click here to view the live site on Netlify](https://womensdayspecial.netlify.app/)
 
-[- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/ganpati_bappa_html/)
+[- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/women-s_day_special_html/)
 
 ---
 
